@@ -1,0 +1,24 @@
+{
+    "root": {
+        "name": "Business Attack",
+        "value": null,
+        "children": [
+            {
+                "name": "Physical",
+                "value": null,
+                "children": [
+                    { "name": "Break In", "value": 1000, "children": [] },
+                    { "name": "Vandalism", "value": 200, "children": [] }
+                ]
+            },
+            {
+                "name": "Digital",
+                "value": null,
+                "children": [
+                    { "name": "Phishing", "value": 500, "children": [] },
+                    { "name": "SQL Injection", "value": 600, "children": [] }
+                ]
+            }
+        ]
+    }
+}

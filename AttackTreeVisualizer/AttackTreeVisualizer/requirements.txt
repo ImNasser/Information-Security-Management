@@ -1,0 +1,13 @@
+# Attack Tree Visualizer - Requirements
+
+# NetworkX is used for creating, modifying and rendering graphs.
+# It provides the backbone of the visualization logic for attack trees.
+networkx==2.5
+# hash: sha256:1a2c185dcb4c0ed7da5c9279da8ca1972f4f5f5a7895cd9e6ebead4a68168b93
+
+# Matplotlib is used for plotting the graphs created by NetworkX
+# It renders the attack trees visually and is necessary for graphical display.
+matplotlib==3.4.2
+# hash: sha256:420389aef3c9fabbf8b53827d94a1d8f6de15ca9e74f53729971c3ef156a4a9f
+
+
